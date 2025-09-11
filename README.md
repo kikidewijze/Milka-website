@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Pagina1.png" width="375px" alt="Milka home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/Pagina2.png" width="375px" alt="Milka duurzaamheid pagina>
  
 </details>
 
@@ -57,7 +57,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  Er zijn errors in de html. Er staan niet overal H2 in de sections. De plaatjes voor de achtergrond word soms in css gezet als backround image.
+  Er word op de home pagina 0 keer een H1 gebruikt. Niet alle img elements hebben een alt attribute. Ze hebben de moeilijke plaatjes geen tekst ondertiteling gegeven.
+  Er is geen video of audio beschikbaar. 
 </details>
 
 
@@ -67,14 +69,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de eerste pagina: 
+  <img src="images/Breakdown_schets.png" width="375px" alt="breakdown van de eerste pagina">
+
+  ### de tweede pagina: 
+  <img src="images/Breakdown_schets_2.png" width="375px" alt="breakdown van de tweede pagina>
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="images/Dynamisch_deel_1 .png" width="375px" alt="breakdown van het menu bij producten">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="images/Breakdown_schets_2.png" width="375px" alt="breakdown van het menu over milka">
 
 </details>
 
@@ -88,8 +93,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Sommige foto's kan ik niet downloaden. Ik weet niet hoe ik de plaatjes als buttons moet maken en deze moet animeren. 
+  Ik weet niet of ik bij de elke p een class erbij moet zetten, want ik heb heel veel p in een section.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
