@@ -39,13 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   [https://www.milka.com/nl/alle-producten/tabletten/]
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Milka home pagina
   <img src="images/Pagina1.png" width="375px" alt="Milka home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Duurzaamheid pagina
   <img src="images/Pagina2.png" width="375px" alt="Milka duurzaamheid pagina>
- 
 </details>
 
 
@@ -70,7 +69,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de eerste pagina: 
-  <img src="images/Breakdown_schets.png" width="375px" alt="breakdown van de eerste pagina">
+  <img src="images/Breakdown_schets_1.png" width="375px" alt="breakdown van de eerste pagina">
 
   ### de tweede pagina: 
   <img src="images/Breakdown_schets_2.png" width="375px" alt="breakdown van de tweede pagina>
